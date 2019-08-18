@@ -49,6 +49,7 @@
                                         <constraint firstAttribute="trailing" secondItem="lCx-VP-CPJ" secondAttribute="trailing" constant="10" id="8Lw-J7-6os"/>
                                         <constraint firstAttribute="trailingMargin" secondItem="yo9-u0-Fak" secondAttribute="trailing" constant="5" id="HFf-IR-z34"/>
                                         <constraint firstItem="lCx-VP-CPJ" firstAttribute="top" secondItem="yo9-u0-Fak" secondAttribute="bottom" constant="5" id="Kw8-fN-UI1"/>
+                                        <constraint firstAttribute="bottomMargin" relation="greaterThanOrEqual" secondItem="XJc-8T-p6W" secondAttribute="bottom" constant="10" id="NrW-Oq-ptY"/>
                                         <constraint firstItem="yo9-u0-Fak" firstAttribute="top" secondItem="g0x-I7-xx0" secondAttribute="topMargin" constant="5" id="UhO-hp-KdB"/>
                                         <constraint firstAttribute="trailingMargin" secondItem="XJc-8T-p6W" secondAttribute="trailing" constant="10" id="WtR-Yg-5Pm"/>
                                         <constraint firstItem="XJc-8T-p6W" firstAttribute="top" secondItem="lCx-VP-CPJ" secondAttribute="bottom" constant="5" id="cUb-eN-4Rj"/>
